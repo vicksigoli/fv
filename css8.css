@@ -246,11 +246,11 @@ border-radius: 0px;
 
 #barra .fvbarra a:link, #barra .fvbarra a:visited ,#barra .fvbarra a:active { 
 align: center;
-border-radius: 0px; 
--moz-border-radius: 0px; 
--webkit-border-radius: 0px;
-color: #f8f7ff;  
-font: 8px 'consolas'; 
+border-radius: 2px; 
+-moz-border-radius: 2px; 
+-webkit-border-radius: 2px;
+color: #fefeff;  
+font: 10px 'consolas'; 
 font-style: none; 
 font-weight: none; 
 line-height: 12px; 
@@ -261,10 +261,10 @@ letter-spacing: 2px;
 padding: 6px; 
 text-decoration: none; 
 text-transform:  uppercase; 
-background: #4d70ee;
--webkit-box-shadow: 0px 0px 3px #4d70ee;
--moz-box-shadow: 0px 0px 3px #4d70ee; 
-box-shadow: 0px 0px 3px #4d70ee;
+background: #6784ed;
+-webkit-box-shadow: 0px 0px 3px #6784ed;
+-moz-box-shadow: 0px 0px 3px #6784ed; 
+box-shadow: 0px 0px 3px #6784ed;
 margin: -2px; 
 -webkit-transition: all 0.3s ease-out; 
 -moz-transition: all 0.3s ease-out;
@@ -272,11 +272,11 @@ margin: -2px;
 
 #barra .fvbarra a:hover { 
 align: center;
-border-radius: 0px; 
--moz-border-radius: 0px; 
--webkit-border-radius: 0px;
-color: #f8f7ff;  
-font: 8px 'consolas'; 
+border-radius: 2px; 
+-moz-border-radius: 2px; 
+-webkit-border-radius: 2px;
+color: #fefeff;  
+font: 10px 'consolas'; 
 font-style: none; 
 font-weight: none; 
 line-height: 12px; 
