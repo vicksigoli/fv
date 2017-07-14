@@ -68,11 +68,11 @@ po1 {	color: #000; text-shadow: 1px 1px #e1e1e1; background: #none; font-weight:
 
 ::-moz-selection {
 color: #f8d9e3;
-background: #504354;}
+background: #f4d4df;}
 
 ::selection {
 color: #f8d9e3;
-background: #504354;}
+background: #f4d4df;}
 
 a img {
 filter:alpha(opacity=10);
@@ -84,9 +84,9 @@ a:hover img {
 filter:alpha(opacity=100);
 -moz-opacity:0.99;
 opacity: 0.99;
--moz-transform: scale(1.1) translate(0px, -4px);
--webkit-transform: scale(1.1) translate(0px, -4px);
-transform: translate(0px, -4px);
+-moz-transform: scale(1.1) translate(0px, 0px);
+-webkit-transform: scale(1.1) translate(0px, 0px);
+transform: translate(0px, 0px);
 transition: all 0.2s ease;
 -webkit-filter: grayscale(0%);
 }
