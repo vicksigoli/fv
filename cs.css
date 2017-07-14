@@ -1,7 +1,7 @@
 body {
 width: 900px;
  body-align: center;
- background: url() #152338;
+ background: url() #0f1b29;
  margin: 0 auto;
  cursor: crosshair;
  -moz-border-radius: 0px;
@@ -34,7 +34,7 @@ border-bottom: 1px solid #none;
 cursor: hand;
 font: 11px calibri;
 letter-spacing: 1px;
-color: #152338;
+color: #0f1b29;
 align: left;
 text-transform: lowercase;
 -webkit-transition: all 0.5s ease;
@@ -67,11 +67,11 @@ po1 {	color: #000; text-shadow: 1px 1px #e1e1e1; background: #none; font-weight:
 }
 
 ::-moz-selection {
-color: #152338;
+color: #0f1b29;
 background: #f4d4df;}
 
 ::selection {
-color: #152338;
+color: #0f1b29;
 background: #f4d4df;}
 
 a img {
@@ -87,7 +87,7 @@ opacity: 0.99;
 -moz-transform: scale(1.1) translate(0px, -4px);
 -webkit-transform: scale(1.1) translate(0px, -4px);
 transform: translate(0px, 0px);
-transition: all 0.2s ease;
+transition: all 0.5s ease;
 -webkit-filter: grayscale(0%);
 }
 
@@ -152,7 +152,7 @@ background-color: #f8f8f8;
         -moz-border-radius: 0px;
         line-height: 12px;
         padding: 5px;
-        background-color: #152338;
+        background-color: #0f1b29;
 }
 
 .Pr {
@@ -306,4 +306,4 @@ color: transparent;
 opacity:.0;
 }
 
-html { 	background: url() #152338;
+html { 	background: url() #0f1b29;
