@@ -1,7 +1,7 @@
 body {
 width: 900px;
  body-align: center;
- background: url() #ff0000;
+ background: url() #152338;
  margin: 0 auto;
  cursor: crosshair;
  -moz-border-radius: 0px;
@@ -11,7 +11,7 @@ p, a, body, td, tr, div {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 11px;
-	color: #7c7c7c;
+	color: #5c4a5a;
 	cursor: crosshair;
 	font-family: Verdana;
 	line-height: 12px;
@@ -22,7 +22,7 @@ font: 11px calibri;
 letter-spacing: 1px;
 border-bottom: 1px solid #none;
 cursor: hand;
-color: #d8d8d8;
+color: #686c88;
 align: left;
 text-transform: lowercase;
 text-decoration: none;
@@ -34,14 +34,14 @@ border-bottom: 1px solid #none;
 cursor: hand;
 font: 11px calibri;
 letter-spacing: 1px;
-color: #9bbad6;
+color: #152338;
 align: left;
 text-transform: lowercase;
 -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
 text-decoration: none;
-background-color: #ffffff;}
+background-color: #f4d4df;}
 
 /* --- POST ---*/
 .tab1 {
