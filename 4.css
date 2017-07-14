@@ -11,7 +11,7 @@ p, a, body, td, tr, div {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 11px;
-	color: #060c11;
+	color: #1c2e49;
 	cursor: crosshair;
 	font-family: Verdana;
 	line-height: 12px;
@@ -78,7 +78,7 @@ a img {
 filter:alpha(opacity=10);
 -moz-opacity:0.10;
 opacity: 0.75;
--webkit-filter: grayscale(100%);
+-webkit-filter: grayscale(80%);
 }
 a:hover img {
 filter:alpha(opacity=100);
@@ -249,7 +249,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #060c11;  
+color: #f2d1dc;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
@@ -275,7 +275,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #f2d1dc;  
+color: #060c11;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
