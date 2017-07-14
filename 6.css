@@ -11,7 +11,7 @@ p, a, body, td, tr, div {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 11px;
-	color: #a17a7b;
+	color: #a8a7ae;
 	cursor: crosshair;
 	font-family: Verdana;
 	line-height: 12px;
@@ -22,7 +22,7 @@ font: 11px calibri;
 letter-spacing: 1px;
 border-bottom: 1px solid #none;
 cursor: hand;
-color: #a17a7b;
+color: #a8a7ae;
 align: left;
 text-transform: lowercase;
 text-decoration: none;
@@ -41,7 +41,7 @@ text-transform: lowercase;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
 text-decoration: none;
-background-color: #a17a7b;}
+background-color: #a8a7ae;}
 
 /* --- POST ---*/
 .tab1 {
@@ -68,11 +68,11 @@ po1 {	color: #000; text-shadow: 1px 1px #e1e1e1; background: #none; font-weight:
 
 ::-moz-selection {
 color: #e6e5ed;
-background: #a17a7b;}
+background: #a8a7ae;}
 
 ::selection {
 color: #e6e5ed;
-background: #a17a7b;}
+background: #a8a7ae;}
 
 a img {
 filter:alpha(opacity=10);
@@ -132,7 +132,7 @@ height: 12px;
 input, textarea, select 
 {font-family: verdana; 
 font-size: 11px;
-color: #a17a7b;
+color: #a8a7ae;
 border-top: 0px solid #d2ccb3;  
 border-left: 0px solid #d2ccb3;  
 border-right: 1px solid #d4d0de;  
@@ -144,7 +144,7 @@ background-color: #d4d0de;
 
 .cmttext {
 	text-align: justify;
-	color: #a17a7b;
+	color: #a8a7ae;
         border-top: 0px solid #4F413C;
         border-left: 0px solid #4F413C;
         border-right: 0px solid #D2D2D2;
@@ -233,7 +233,7 @@ align: center;
 margin-top: 0px; 
 height: 12px; 
 font: 11px 'calibri';  
-color:#e6e5ed; 
+color:#f8f7ff; 
 background: #111111; 
 border: 1px solid #111111; 
 opacity: 1.0; 
@@ -249,7 +249,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #e6e5ed;  
+color: #f8f7ff;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
@@ -261,13 +261,13 @@ letter-spacing: 2px;
 padding: 6px; 
 text-decoration: none; 
 text-transform:  uppercase; 
-background: #eb656c;
--webkit-box-shadow: 0px 0px 3px #eb656c;
--moz-box-shadow: 0px 0px 3px #eb656c; 
-box-shadow: 0px 0px 3px #eb656c;
+background: #de1e53;
+-webkit-box-shadow: 0px 0px 3px #de1e53;
+-moz-box-shadow: 0px 0px 3px #de1e53; 
+box-shadow: 0px 0px 3px #de1e53;
 margin: -2px; 
--webkit-transition: all 0.4s ease-out; 
--moz-transition: all 0.4s ease-out;
+-webkit-transition: all 0.3s ease-out; 
+-moz-transition: all 0.3s ease-out;
 } 
 
 #barra .fvbarra a:hover { 
@@ -275,7 +275,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #e6e5ed;  
+color: #f8f7ff;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
@@ -287,10 +287,10 @@ padding: 6px;
 letter-spacing: 2px; 
 text-decoration: none; 
 text-transform:  uppercase; 
-background: url('') #dea160;
--webkit-box-shadow: 0px 0px 5px #dea160;
--moz-box-shadow: 0px 0px 5px #dea160; 
-box-shadow: 0px 0px 5px #dea160;
+background: url('') #d8b83a;
+-webkit-box-shadow: 0px 0px 5px #d8b83a;
+-moz-box-shadow: 0px 0px 5px #d8b83a; 
+box-shadow: 0px 0px 5px #d8b83a;
 margin: -2px; 
 -webkit-transition: all 0.3s ease-out; 
 -moz-transition: all 0.3s ease-out;
