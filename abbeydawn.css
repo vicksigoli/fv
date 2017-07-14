@@ -34,7 +34,7 @@ border-bottom: 1px solid #none;
 cursor: hand;
 font: 11px calibri;
 letter-spacing: 1px;
-color: #e6e5ed;
+color: #a8a7ae;
 align: left;
 text-transform: lowercase;
 -webkit-transition: all 0.5s ease;
@@ -67,12 +67,12 @@ po1 {	color: #000; text-shadow: 1px 1px #e1e1e1; background: #none; font-weight:
 }
 
 ::-moz-selection {
-color: #e6e5ed;
-background: #a8a7ae;}
+color: #a8a7ae;
+background: #ffffff;}
 
 ::selection {
-color: #e6e5ed;
-background: #a8a7ae;}
+color: #a8a7ae;
+background: #ffffff;}
 
 a img {
 filter:alpha(opacity=10);
