@@ -1,7 +1,7 @@
 body {
 width: 900px;
  body-align: center;
- background: url() #0f1b29;
+ background: url() #e6e5ed;
  margin: 0 auto;
  cursor: crosshair;
  -moz-border-radius: 0px;
@@ -11,7 +11,7 @@ p, a, body, td, tr, div {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 11px;
-	color: #1c2e49;
+	color: #a17a7b;
 	cursor: crosshair;
 	font-family: Verdana;
 	line-height: 12px;
@@ -22,7 +22,7 @@ font: 11px calibri;
 letter-spacing: 1px;
 border-bottom: 1px solid #none;
 cursor: hand;
-color: #686c88;
+color: #a17a7b;
 align: left;
 text-transform: lowercase;
 text-decoration: none;
@@ -34,14 +34,14 @@ border-bottom: 1px solid #none;
 cursor: hand;
 font: 11px calibri;
 letter-spacing: 1px;
-color: #0f1b29;
+color: #e6e5ed;
 align: left;
 text-transform: lowercase;
 -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
 text-decoration: none;
-background-color: #f4d4df;}
+background-color: #a17a7b;}
 
 /* --- POST ---*/
 .tab1 {
@@ -67,18 +67,18 @@ po1 {	color: #000; text-shadow: 1px 1px #e1e1e1; background: #none; font-weight:
 }
 
 ::-moz-selection {
-color: #0f1b29;
-background: #f4d4df;}
+color: #e6e5ed;
+background: #a17a7b;}
 
 ::selection {
-color: #0f1b29;
-background: #f4d4df;}
+color: #e6e5ed;
+background: #a17a7b;}
 
 a img {
 filter:alpha(opacity=10);
 -moz-opacity:0.10;
 opacity: 0.75;
--webkit-filter: grayscale(80%);
+-webkit-filter: grayscale(100%);
 }
 a:hover img {
 filter:alpha(opacity=100);
@@ -132,19 +132,19 @@ height: 12px;
 input, textarea, select 
 {font-family: verdana; 
 font-size: 11px;
-color: #686c88;
+color: #a17a7b;
 border-top: 0px solid #d2ccb3;  
 border-left: 0px solid #d2ccb3;  
-border-right: 1px solid #152338;  
-border-bottom: 1px solid #152338;  
-background-color: #152338; 
+border-right: 1px solid #d4d0de;  
+border-bottom: 1px solid #d4d0de;  
+background-color: #d4d0de; 
 -moz-border-radius: 0px 0px 0px 0px;
 
 }
 
 .cmttext {
 	text-align: justify;
-	color: #686c88;
+	color: #a17a7b;
         border-top: 0px solid #4F413C;
         border-left: 0px solid #4F413C;
         border-right: 0px solid #D2D2D2;
@@ -152,7 +152,7 @@ background-color: #152338;
         -moz-border-radius: 0px;
         line-height: 12px;
         padding: 5px;
-        background-color: #152338;
+        background-color: #d4d0de;
 }
 
 .Pr {
@@ -233,7 +233,7 @@ align: center;
 margin-top: 0px; 
 height: 12px; 
 font: 11px 'calibri';  
-color:#d8d8d8; 
+color:#e6e5ed; 
 background: #111111; 
 border: 1px solid #111111; 
 opacity: 1.0; 
@@ -249,7 +249,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #f2d1dc;  
+color: #e6e5ed;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
@@ -261,10 +261,10 @@ letter-spacing: 2px;
 padding: 6px; 
 text-decoration: none; 
 text-transform:  uppercase; 
-background: #152338;
--webkit-box-shadow: 0px 0px 3px #152338;
--moz-box-shadow: 0px 0px 3px #152338; 
-box-shadow: 0px 0px 3px #152338;
+background: #eb656c;
+-webkit-box-shadow: 0px 0px 3px #eb656c;
+-moz-box-shadow: 0px 0px 3px #eb656c; 
+box-shadow: 0px 0px 3px #eb656c;
 margin: -2px; 
 -webkit-transition: all 0.4s ease-out; 
 -moz-transition: all 0.4s ease-out;
@@ -275,7 +275,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #060c11;  
+color: #e6e5ed;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
@@ -287,10 +287,10 @@ padding: 6px;
 letter-spacing: 2px; 
 text-decoration: none; 
 text-transform:  uppercase; 
-background: url('') #0f1b29;
--webkit-box-shadow: 0px 0px 5px #0f1b29;
--moz-box-shadow: 0px 0px 5px #0f1b29; 
-box-shadow: 0px 0px 5px #0f1b29;
+background: url('') #dea160;
+-webkit-box-shadow: 0px 0px 5px #dea160;
+-moz-box-shadow: 0px 0px 5px #dea160; 
+box-shadow: 0px 0px 5px #dea160;
 margin: -2px; 
 -webkit-transition: all 0.3s ease-out; 
 -moz-transition: all 0.3s ease-out;
@@ -306,4 +306,4 @@ color: transparent;
 opacity:.0;
 }
 
-html { 	background: url() #0f1b29;
+html { 	background: url() #e6e5ed;
