@@ -67,11 +67,11 @@ po1 {	color: #000; text-shadow: 1px 1px #e1e1e1; background: #none; font-weight:
 }
 
 ::-moz-selection {
-color: #f8d9e3;
+color: #152338;
 background: #f4d4df;}
 
 ::selection {
-color: #f8d9e3;
+color: #152338;
 background: #f4d4df;}
 
 a img {
@@ -84,8 +84,8 @@ a:hover img {
 filter:alpha(opacity=100);
 -moz-opacity:0.99;
 opacity: 0.99;
--moz-transform: scale(1.1) translate(0px, 0px);
--webkit-transform: scale(1.1) translate(0px, 0px);
+-moz-transform: scale(1.1) translate(0px, -4px);
+-webkit-transform: scale(1.1) translate(0px, -4px);
 transform: translate(0px, 0px);
 transition: all 0.2s ease;
 -webkit-filter: grayscale(0%);
@@ -152,7 +152,7 @@ background-color: #f8f8f8;
         -moz-border-radius: 0px;
         line-height: 12px;
         padding: 5px;
-        background-color: #f8f8f8;
+        background-color: #152338;
 }
 
 .Pr {
@@ -306,4 +306,4 @@ color: transparent;
 opacity:.0;
 }
 
-html { 	background: url() #f8f8f8;
+html { 	background: url() #152338;
