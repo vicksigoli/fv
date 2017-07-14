@@ -11,7 +11,7 @@ p, a, body, td, tr, div {
 	font-weight: normal;
 	font-style: normal;
 	font-size: 11px;
-	color: #686c88;
+	color: #060c11;
 	cursor: crosshair;
 	font-family: Verdana;
 	line-height: 12px;
@@ -249,7 +249,7 @@ align: center;
 border-radius: 0px; 
 -moz-border-radius: 0px; 
 -webkit-border-radius: 0px;
-color: #080f16;  
+color: #060c11;  
 font: 8px 'consolas'; 
 font-style: none; 
 font-weight: none; 
@@ -266,8 +266,8 @@ background: #152338;
 -moz-box-shadow: 0px 0px 3px #152338; 
 box-shadow: 0px 0px 3px #152338;
 margin: -2px; 
--webkit-transition: all 0.3s ease-out; 
--moz-transition: all 0.3s ease-out;
+-webkit-transition: all 0.4s ease-out; 
+-moz-transition: all 0.4s ease-out;
 } 
 
 #barra .fvbarra a:hover { 
